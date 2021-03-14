@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace DIO.Serires.Entities.BaseEntity
+﻿namespace DIO.Serires.Entities.BaseEntity
 {
     public abstract class EntidadeBase
     {

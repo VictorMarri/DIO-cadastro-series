@@ -1,8 +1,6 @@
 ﻿using DIO.Serires.Entities.BaseEntity;
 using DIO.Serires.Enums;
 using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace DIO.Serires.Entities
 {
@@ -23,7 +21,7 @@ namespace DIO.Serires.Entities
             Excluido = false;
         }
 
-        public Series(int id,Genero genero, string titulo, string descricao, int ano)
+        public Series(int id, Genero genero, string titulo, string descricao, int ano)
         {
             this.Id = id;
             Genero = genero;

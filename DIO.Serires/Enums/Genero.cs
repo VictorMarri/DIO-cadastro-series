@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace DIO.Serires.Enums
+﻿namespace DIO.Serires.Enums
 {
     public enum Genero
     {
@@ -15,8 +11,8 @@ namespace DIO.Serires.Enums
         Faroeste = 7,
         Fantasia = 8,
         Ficcao_Cientifica = 9,
-        Musical =10,
-        Romance =11,
+        Musical = 10,
+        Romance = 11,
         Suspense = 12,
         Terror = 13
     }

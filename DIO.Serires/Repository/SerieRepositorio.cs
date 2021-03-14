@@ -1,8 +1,6 @@
 ﻿using DIO.Serires.Entities;
 using DIO.Serires.Interfaces;
-using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace DIO.Serires.Repository
 {
